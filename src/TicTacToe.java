@@ -150,9 +150,5 @@ public class TicTacToe implements ActionListener{
             buttons[i].setEnabled(false);
         }
     }
-//    public void draw(){
-//        if (textfield.getText()!="O Wins:" || textfield.getText()!="X Wins:"){
-//            textfield.setText(("DRAW"));
-//        }
-//    }
+
 }
